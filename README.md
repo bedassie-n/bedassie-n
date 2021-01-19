@@ -1,5 +1,7 @@
-### Hi there 👋
+### HI IM NATHANIEL
+![ME](image.jpg)
 
+🌱 I’m currently learning everything
 <!--
 **bedassie-n/bedassie-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
