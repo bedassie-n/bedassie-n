@@ -6,7 +6,7 @@ https://seaforth-inventory.herokuapp.com/
 
 ### UNDERGRADUATE GROUP PROJECT
 https://uwi-ar-maps.herokuapp.com/
-- AR Navgigation of the faculty of Science and Technology built with AR.js
+- AR Navgigation of the Faculty of Science and Technology built with AR.js
 
 🌱 I’m currently learning everything
 <!--
