@@ -2,11 +2,11 @@
 ![ME](image.jpg)
 ### MY PROJECTS
 https://seaforth-inventory.herokuapp.com/
-A inventory management system built for the COG7TH Seaforth using PHP and MYSQL.
+- A inventory management system built for the COG7TH Seaforth using PHP and MYSQL.
 
 ### UNDERGRADUATE GROUP PROJECT
 https://uwi-ar-maps.herokuapp.com/
-AR Navgigation of the faculty of Science and Technology built with AR.js
+- AR Navgigation of the faculty of Science and Technology built with AR.js
 
 🌱 I’m currently learning everything
 <!--
