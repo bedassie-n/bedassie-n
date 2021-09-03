@@ -1,5 +1,5 @@
 ### HI IM NATHANIEL
-![ME](image.jpg)
+![ME](7635BFF7-1D0D-415A-8D9E-FF33A186F65E_1_201_a.jpeg)
 ### MY PROJECTS
 https://seaforth-inventory.herokuapp.com/
 - A inventory management system built for the COG7TH Seaforth using PHP and MYSQL.
